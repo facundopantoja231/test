@@ -30,7 +30,7 @@ body {
 .formulario {
 	user-select: none;
 	padding-top: 1rem;
-    background: #C87D6D;
+    background: #00DCC8;
 	border-radius: 10px;
 	width: 450px;
     height: 700px;
@@ -54,8 +54,8 @@ body {
 	border: none;
 	outline: none;
 	border-radius: 10px;
-	border: 1px solid #C87D6D;
-	outline: 2px solid #A96455;
+	border: 1px solid #00DCC8;
+	outline: 2px solid #13B4A5;
 	transition: all .3s;
 }
 
@@ -78,8 +78,8 @@ body {
 	border-radius: 10px;
 	width: 80px;
 	text-align: center;
-	border: 1px solid #C87D6D;
-	outline: 2px solid #A96455;
+	border: 1px solid #00DCC8;
+	outline: 2px solid #13B4A5;
 	transition: all .3s;
 }
 
@@ -94,14 +94,14 @@ body {
 
 
 .botoncito {
-	background-color: #A96455;
+	background-color: #13B4A5; 
 	color: black;
 	cursor: pointer;
 	transition: all .3s;
 }
 
 .botoncito:hover {
-	background-color: #A06052;
+	background-color: #11A79A;
 }
 
 #materias {
@@ -117,7 +117,7 @@ body {
 	display: flex;
 	flex-direction: row;
 	margin: 5px;
-	background-color: #C87D6D;
+	background-color: #00DCC8;
 	position: relative;
 	user-select: none;
 
@@ -205,19 +205,19 @@ input[type=number]::-webkit-outer-spin-button {
 	text-decoration: none;
 	width: 30px;
 	height: 40px;
-	background: #A96455;
+	background: #13B4A5;
 	color: white;
 	border: none;
 	outline: none;
 	border-radius: 10px;
-	border: 1px solid #C87D6D;
+	border: 1px solid #00DCC8;
 	font-size: 1.75rem;
 	transition: all .3s;
-	outline: 2px solid #A96455;
+	outline: 2px solid #13B4A5;
 }
 
 .agregarNotas:hover {
-	background-color: #A06052;
+	background-color: #11A79A;
 }
 
 .calif {

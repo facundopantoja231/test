@@ -1,5 +1,4 @@
 # README faty - shey #
-
 Este es un repositorio de...
 
 ### NOMBRE Y APELLIDO: ###
